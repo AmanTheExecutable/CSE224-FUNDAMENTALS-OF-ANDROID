@@ -1,0 +1,9 @@
+Naming your API properly is the first step in designing a good API. When the API name follows a convention, it provides lots of information about the API and its purpose. To create a meaningful API endpoint, you need to follow some simple guidelines and rules. 
+
+In this reading, you will learn about API naming conventions and familiarize yourself with good API endpoints vs. bad API endpoints, or good and bad routes.
+
+Rule 01: Everything in lowercase, with dashes and not abridged
+
+The URI of your API should always be in lowercase. Do not use camelCase, PascalCase or Title case when you design your API. Also, separate multiple words using hyphens not underscores. Do not keep abridged, or shortened, words in your URI; always use the full and meaningful form.
+
+If your API accepts a variable, you should always represent it in camelCase, and wrap it inside a set of curly braces {}.
