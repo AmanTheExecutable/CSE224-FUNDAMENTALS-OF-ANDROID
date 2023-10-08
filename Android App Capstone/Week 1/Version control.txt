@@ -1,0 +1,24 @@
+Version control
+Generally, a software product is developed through the collaboration of a group of developers, each of whom is responsible for certain functionality of the product. You can imagine that many developers modify the source code accordingly. But suppose some change in the code results in a particular bug in the product. In that case, there must be a way to track the cause of the problem and seamlessly restore the state of the product to its previously working version. That’s why a version control system is essential for any software development project. For more details about this, revisit the 
+What is version control?
+ video from the Version control course.
+
+There are two types of version control systems: centralized and distributed. To review these systems, you can revisit the 
+Systems of version control and tools
+ video in the Version control course. Let’s briefly explore two version control tools, Git and GitHub.
+
+Git
+Git is a popular distributed version control system (DVCS). It's free and open-source software designed to manage all source code history. It allows you to keep a history of commits, revert to previous versions and share code. To review how to work with Git, refer to the lesson about 
+Working with Git
+ in the Version control course. 
+
+You can download and install Git on your machine from 
+https://git-scm.com/downloads
+. To start using Git, you need to create and clone a repository. To review how to do this, revisit the video about 
+Creating and cloning a repository
+ in the Version control course. For more details on collaborating on Git, including adding and committing files, refer to the 
+Add and commit
+ video in the Version control course.
+
+GitHub
+Usually, you store Git repositories on GitHub. GitHub has the source control management (SCM) features of Git and some other features such as project management, support ticket management and bug tracking. Developers use GitHub to share their repositories, access other developers' repositories and store remote copies of repositories to serve as backups. 

@@ -1,0 +1,60 @@
+Step 1
+Download and install Git for your operating system and architecture from the 
+Git downloads page
+
+Step 2
+Log into GitHub
+(create an account if necessary) and create a new repository. 
+Name your repository little-lemon.
+
+Step 3
+Open the Git terminal on your machine.
+
+Step 4
+Copy the URL for your newly-created GitHub repository. 
+
+Step 5
+Make a new directory for the local repository by typing the following line in the terminal:
+$ mkdir little-lemon
+
+Step 6
+Enter the directory by typing the following line in the terminal:
+$ git clone https://github.com/coursera/little-lemon.git 
+
+Step 8
+Enter the repository and check the list of files. If the cloning process is successful, you should have a list like the following:
+$ cd little-lemon
+$ ls -la 
+total 5 
+drwxr-xr-x 1 ********** 4096  0 Dec  2 09:58 ./ 
+drwxr-xr-x 1 ********** 4096  0 Dec  2 09:58 ../ 
+drwxr-xr-x 1 ********** 4096  0 Dec  2 09:58 .git/ 
+-rw-r--r-- 1 ********** 4096 14 Dec  2 09:58 README.md 
+
+Step 9
+Open a newfile.txt file with vi, by typing the following command in the terminal:
+$ vi newfile.txt
+
+Step 10
+Check the Git status using the $ git status command.
+
+Step 11
+Add the newfile.txt to the stage with the $ git add command.
+
+Step 12
+Commit the changes with the $ git commit command.
+
+Step 13
+Check the status again with the $ git status command.
+
+Step 14
+Push the changes with the $ git push command.
+
+Step 15
+Refresh the GitHub repository page to check that the pushed file appears. 
+Edit the file on GitHub, add some text and commit the changes.
+
+Step 16
+Finally, go back to Git bash shell and pull the repository to update the local repository, using the $ git pull command.
+
+
