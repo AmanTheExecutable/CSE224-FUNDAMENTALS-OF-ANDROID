@@ -13,7 +13,7 @@
             "title": "Lemon Desert",
             "description": "Traditional homemade Italian Lemon Ricotta Cake.",
             "price": "10",
-            "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/lemonDessert%202.jpg?raw=true",
+            "image": "https://w7.pngwing.com/pngs/1011/822/png-transparent-tart-lemon-meringue-pie-creme-caramel-shortcake-torte-cake-cream-baked-goods-food.png",
             "category": "desserts"
         },
         {
@@ -39,6 +39,37 @@
             "price": "10",
             "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
             "category": "starters"
-        }
+        },{
+            "id": 6,
+            "title": "Margherita Pizza",
+            "description": "Classic Margherita pizza with tomato, mozzarella, and basil leaves on a thin crust.",
+            "price": "11",
+            "image": "https://example.com/image1.jpg",
+            "category": "mains"
+          },
+          {
+            "id": 7,
+            "title": "Caprese Salad",
+            "description": "Caprese salad with fresh tomatoes, mozzarella, basil, and a balsamic glaze drizzle.",
+            "price": "12",
+            "image": "https://example.com/image2.jpg",
+            "category": "starters"
+          },
+          {
+            "id": 8,
+            "title": "Tiramisu",
+            "description": "Classic Italian Tiramisu dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
+            "price": "9",
+            "image": "https://example.com/image3.jpg",
+            "category": "desserts"
+          },
+          {
+            "id": 9,
+            "title": "Chicken Alfredo",
+            "description": "Creamy Chicken Alfredo pasta with grilled chicken, fettuccine, and a rich Alfredo sauce.",
+            "price": "15",
+            "image": "https://example.com/image4.jpg",
+            "category": "mains"
+          }
     ]
 }
